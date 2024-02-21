@@ -1,0 +1,11 @@
+{
+  "name": "websocket-server",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bun index.ts"
+  },
+  "type": "module"
+}
